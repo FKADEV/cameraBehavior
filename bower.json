@@ -1,0 +1,37 @@
+{
+  "name": "CameraBehaviour",
+  "version": "1.0.0",
+  "description": "Simple camera behavour for polymer using cordova plugin",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "camera",
+    "cordova"
+  ],
+  "authors": [
+    "Ronny Solheim"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "camera",
+    "cordova"
+  ],
+  "main": [
+    "cameraBehavior.html"
+  ],
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FKADEV/cameraBehavior/cameraBehavior.git"
+  },
+
+  "ignore": [],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "^0.7.0"
+  }
+}
